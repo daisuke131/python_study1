@@ -53,7 +53,7 @@ task5で作成した関数の引数に「マリ」を渡して、`names`に追�
 
 関数、引数に関しては、[こちら](https://www.mathpython.com/ja/type/)を参考にしてみましょう。
 
-## task7. 引数を使う関数の使い方
+## task7. 文字検索
 
 ```
 name = input("名前を入力してください：")
